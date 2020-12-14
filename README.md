@@ -1,3 +1,7 @@
+# ROBO-FRIENDS Website
+
+A simple website to learn the fundamentals of REACTjs.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
